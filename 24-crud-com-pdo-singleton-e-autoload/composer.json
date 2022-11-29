@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edilson Alexandre Cuamba",
+            "email": "edilsoncuamba@gmail.com"
+        }
+    ]
+}
